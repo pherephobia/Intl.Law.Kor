@@ -1,0 +1,5 @@
+book_filename: "IR.Intl.Laws_KR"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
